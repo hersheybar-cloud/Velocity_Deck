@@ -19,13 +19,17 @@ Features:
 
  - One KP2040 Adafruit microcontroller with more capabilities than the standard RP2040. (I also wanted to be different from my friends)
 
-CAD Model:
+# CAD Model
 Everything fits together using 4 M3 Bolts and heatset inserts. All around the edges. Its completely flat
 It has 3 separate printed pieces. The top Currents cover, Middle piece that holds components together, and top piece to keep everything together/ hold the PCB.  
 
 <img width="1036" height="686" alt="Screenshot 2026-10-31 at 1 14 45 PM" src="https://github.com/user-attachments/assets/96952b15-1faf-4de8-9051-64bff659a075" />
 
-<img width="833" height="682" alt="Screenshot 2026-10-31 at 1 16 50 PM" src="https://github.com/user-attachments/assets/0adbe0a5-f4d2-488e-843c-377db33d4e52" />
+<img width="651" height="693" alt="Screenshot 2026-10-31 at 1 37 49 PM" src="https://github.com/user-attachments/assets/00dbc14e-fdce-4077-8ec8-9cff9ad60dd0" />
+
+
+# PCB 
+
 
 # BOM
 - 12x Cherry MX Switches
