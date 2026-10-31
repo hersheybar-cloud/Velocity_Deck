@@ -1,19 +1,14 @@
 # Velocity Deck
 General Description: A small cool designed keyboard addition to the Macbook pro to do Onshape quickly and learn PCB design. 
-
-     - able to do 2 types of modes 
-         - one specifically for Onshape 
-         - one for KiCad 
-     - an in-between button to switch the two. 
-    Total: 12 Cherry MX key switches + 2 rotary encoders. 
+- able to do 2 modes: Onshape and KiCad and in-between button to change between the two. 
 
 Why?: a Macropad with optimal traces + code to make it as a fast as possible at taking inputs + Able to switch between KiCAD and Onshape keybinds quickly/easily + Really cool Keyboard Case! 
 
 Features:
 
- - Currents music album by Tame Impala case inspiration. looks looks awesome doesn't it??
+ - Currents music album by Tame Impala case inspiration. looks awesome doesn't it??
 
- - 2 EC11 Rotary encoders for whatever you want
+ - 2 EC11 Rotary encoders for volume adjustability and additional controls (zoom) 
 
  - 12 Cherry Mx Keys
 
