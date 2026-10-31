@@ -1,3 +1,4 @@
+
 # Velocity Deck
 General Description: A small cool designed keyboard addition to the Macbook pro to do Onshape quickly and learn PCB design. 
 - able to do 2 modes: Onshape and KiCad and in-between button to change between the two. 
@@ -25,6 +26,15 @@ It has 3 separate printed pieces. The top Currents cover, Middle piece that hold
 
 # PCB 
 
+Schematic 
+<img width="1167" height="700" alt="Screenshot 2026-10-31 at 1 44 36 PM" src="https://github.com/user-attachments/assets/16190030-913c-4e8a-9b31-3f29fc63d0b8" />
+
+<img width="524" height="601" alt="Screenshot 2026-10-31 at 1 45 18 PM" src="https://github.com/user-attachments/assets/db58f0f0-968e-4b6b-ad50-90979d369e1c" />
+
+<img width="984" height="723" alt="Screenshot 2026-10-31 at 1 48 01 PM" src="https://github.com/user-attachments/assets/e65d8656-bdba-4afc-8874-3ce7f6f0ae1e" />
+
+<img width="641" height="629" alt="Screenshot 2026-10-31 at 1 48 32 PM" src="https://github.com/user-attachments/assets/706f23c5-d264-47dc-a1b2-e5272a8bc1c9" />
+
 
 # BOM
 - 12x Cherry MX Switches
@@ -32,6 +42,6 @@ It has 3 separate printed pieces. The top Currents cover, Middle piece that hold
 - 4x M3x5x4 Heatset inserts
 - 4X M3x12mm SHCS Bolts
 - 12x 1N4148 DO-35 Diodes.
--2x EC11 Rotary Encoder
--1x Adafruit KP2040
--1x Case (3 printed parts) 
+- 2x EC11 Rotary Encoder
+- 1x Adafruit KP2040
+- 1x Case (3 printed parts) 
